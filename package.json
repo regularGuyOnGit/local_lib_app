@@ -4,7 +4,7 @@
   "description": "",
   "main": "Mongoose.js",
   "scripts": {
-    "devStart": "nodemon  ./bin/www"
+   "start": "node app.js"
   },
   "engines": {
     "node": ">=20.10.0"
